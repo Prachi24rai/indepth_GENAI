@@ -1,1 +1,1 @@
-# indepth_GENAI
+# indepth_GENAI_Roadmap
